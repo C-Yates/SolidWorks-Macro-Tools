@@ -1,6 +1,5 @@
-' Author: Luke Malpass
+' Credit: Luke Malpass
 ' Website: http://www.angelsix.com
-' Date: 01/04/08
 '
 ' Prerequisits: Have a drawing open, and for it to export anything, have at least one table created (such as a BOM)
 '
